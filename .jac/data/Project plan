@@ -10,11 +10,22 @@ What the app looks like
 
 Focus points 
 
+Patient's Aspect:-
+
 *Handling appointments 
-*Handling Pharmaseuticals 
-*Dr-Patient interaction - gives Dr and patient both intel and also updates both of their rosters 
-*
+*Handling Pharmaseuticals (different from 
+*Dr-Patient interaction - gives Dr and patient both intel and also updates both of their rosters. ALso communicates with provider about your appointment and medical 
+records.
+*it can assess medical records and give you suggestions about your lifestyle. (Why is it different from foundational models like Gemini, gpt or claude they are LLMs and are approximation meodels) 
+for example: Assessing your bloodwork or medical report and gives you suggestions based on that 
+*Voice Command for seamless operation and also usage  
 
+Provider's Aspect :-( most of this is not for MVP and can only be a scaling feature) 
 
+*Handling billing smartly giving patients to have more transparency with the billing, also gives you the right to sue or hold your provider accountable 
+*Automated communication between the softwares that are involved in running healthcare centers, providers, pharmacies etc 
+*Creating templated and nuanced documentation for Doctors, Nurses and other healthcare professionals 
+*Seamless Medical Record transfer between health care providers and professionals 
+*An effective and seamless integration of the branches of healthcare 
 
 
